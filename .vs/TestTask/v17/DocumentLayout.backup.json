@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBD977B-F40F-4C7E-B4E9-D255785511D9}|TestTask.Tests\\TestTask.Tests.csproj|c:\\users\\lizaveta\\source\\repos\\testtask\\testtask.tests\\integrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBD977B-F40F-4C7E-B4E9-D255785511D9}|TestTask.Tests\\TestTask.Tests.csproj|solutionrelative:testtask.tests\\integrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBD977B-F40F-4C7E-B4E9-D255785511D9}|TestTask.Tests\\TestTask.Tests.csproj|c:\\users\\lizaveta\\source\\repos\\testtask\\testtask.tests\\testtask.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8EBD977B-F40F-4C7E-B4E9-D255785511D9}|TestTask.Tests\\TestTask.Tests.csproj|solutionrelative:testtask.tests\\testtask.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBD977B-F40F-4C7E-B4E9-D255785511D9}|TestTask.Tests\\TestTask.Tests.csproj|c:\\users\\lizaveta\\source\\repos\\testtask\\testtask.tests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBD977B-F40F-4C7E-B4E9-D255785511D9}|TestTask.Tests\\TestTask.Tests.csproj|solutionrelative:testtask.tests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F12396B-6E22-4BCA-8817-0C020B775DC0}|TestTask\\TestTask.csproj|c:\\users\\lizaveta\\source\\repos\\testtask\\testtask\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F12396B-6E22-4BCA-8817-0C020B775DC0}|TestTask\\TestTask.csproj|solutionrelative:testtask\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F12396B-6E22-4BCA-8817-0C020B775DC0}|TestTask\\TestTask.csproj|c:\\users\\lizaveta\\source\\repos\\testtask\\testtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F12396B-6E22-4BCA-8817-0C020B775DC0}|TestTask\\TestTask.csproj|solutionrelative:testtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F12396B-6E22-4BCA-8817-0C020B775DC0}|TestTask\\TestTask.csproj|c:\\users\\lizaveta\\source\\repos\\testtask\\testtask\\testtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F12396B-6E22-4BCA-8817-0C020B775DC0}|TestTask\\TestTask.csproj|solutionrelative:testtask\\testtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F12396B-6E22-4BCA-8817-0C020B775DC0}|TestTask\\TestTask.csproj|c:\\users\\lizaveta\\source\\repos\\testtask\\testtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F12396B-6E22-4BCA-8817-0C020B775DC0}|TestTask\\TestTask.csproj|solutionrelative:testtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F12396B-6E22-4BCA-8817-0C020B775DC0}|TestTask\\TestTask.csproj|c:\\users\\lizaveta\\source\\repos\\testtask\\testtask\\models\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F12396B-6E22-4BCA-8817-0C020B775DC0}|TestTask\\TestTask.csproj|solutionrelative:testtask\\models\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F12396B-6E22-4BCA-8817-0C020B775DC0}|TestTask\\TestTask.csproj|c:\\users\\lizaveta\\source\\repos\\testtask\\testtask\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F12396B-6E22-4BCA-8817-0C020B775DC0}|TestTask\\TestTask.csproj|solutionrelative:testtask\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F12396B-6E22-4BCA-8817-0C020B775DC0}|TestTask\\TestTask.csproj|c:\\users\\lizaveta\\source\\repos\\testtask\\testtask\\services\\irabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F12396B-6E22-4BCA-8817-0C020B775DC0}|TestTask\\TestTask.csproj|solutionrelative:testtask\\services\\irabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F12396B-6E22-4BCA-8817-0C020B775DC0}|TestTask\\TestTask.csproj|c:\\users\\lizaveta\\source\\repos\\testtask\\testtask\\models\\taskcompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F12396B-6E22-4BCA-8817-0C020B775DC0}|TestTask\\TestTask.csproj|solutionrelative:testtask\\models\\taskcompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F12396B-6E22-4BCA-8817-0C020B775DC0}|TestTask\\TestTask.csproj|c:\\users\\lizaveta\\source\\repos\\testtask\\testtask\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F12396B-6E22-4BCA-8817-0C020B775DC0}|TestTask\\TestTask.csproj|solutionrelative:testtask\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask.Tests\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "TestTask.Tests\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask.Tests\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "TestTask.Tests\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:42:34.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestTask.Tests",
+              "DocumentMoniker": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask.Tests\\TestTask.Tests.csproj",
+              "RelativeDocumentMoniker": "TestTask.Tests\\TestTask.Tests.csproj",
+              "ToolTip": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask.Tests\\TestTask.Tests.csproj",
+              "RelativeToolTip": "TestTask.Tests\\TestTask.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-15T09:38:48.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntegrationTest.cs",
+              "DocumentMoniker": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask.Tests\\IntegrationTest.cs",
+              "RelativeDocumentMoniker": "TestTask.Tests\\IntegrationTest.cs",
+              "ToolTip": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask.Tests\\IntegrationTest.cs",
+              "RelativeToolTip": "TestTask.Tests\\IntegrationTest.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:38:53.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TestTask\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask\\Models\\TaskItem.cs",
+              "RelativeToolTip": "TestTask\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T08:44:36.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask\\Program.cs",
+              "RelativeDocumentMoniker": "TestTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask\\Program.cs",
+              "RelativeToolTip": "TestTask\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAiwGQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:05:55.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask\\Models\\Priority.cs",
+              "RelativeDocumentMoniker": "TestTask\\Models\\Priority.cs",
+              "ToolTip": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask\\Models\\Priority.cs",
+              "RelativeToolTip": "TestTask\\Models\\Priority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T08:46:28.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RabbitMqService.cs",
+              "DocumentMoniker": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask\\Services\\RabbitMqService.cs",
+              "RelativeDocumentMoniker": "TestTask\\Services\\RabbitMqService.cs",
+              "ToolTip": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask\\Services\\RabbitMqService.cs",
+              "RelativeToolTip": "TestTask\\Services\\RabbitMqService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:15:43.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask\\appsettings.json",
+              "RelativeDocumentMoniker": "TestTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask\\appsettings.json",
+              "RelativeToolTip": "TestTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-15T09:04:44.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestTask",
+              "DocumentMoniker": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask\\TestTask.csproj",
+              "RelativeDocumentMoniker": "TestTask\\TestTask.csproj",
+              "ToolTip": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask\\TestTask.csproj",
+              "RelativeToolTip": "TestTask\\TestTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-15T08:59:39.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRabbitMqService.cs",
+              "DocumentMoniker": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask\\Services\\IRabbitMqService.cs",
+              "RelativeDocumentMoniker": "TestTask\\Services\\IRabbitMqService.cs",
+              "ToolTip": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask\\Services\\IRabbitMqService.cs",
+              "RelativeToolTip": "TestTask\\Services\\IRabbitMqService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:13:37.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskCompleted.cs",
+              "DocumentMoniker": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask\\Models\\TaskCompleted.cs",
+              "RelativeDocumentMoniker": "TestTask\\Models\\TaskCompleted.cs",
+              "ToolTip": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask\\Models\\TaskCompleted.cs",
+              "RelativeToolTip": "TestTask\\Models\\TaskCompleted.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:19:19.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask\\Data\\TaskDbContext.cs",
+              "RelativeDocumentMoniker": "TestTask\\Data\\TaskDbContext.cs",
+              "ToolTip": "C:\\Users\\Lizaveta\\source\\repos\\TestTask\\TestTask\\Data\\TaskDbContext.cs",
+              "RelativeToolTip": "TestTask\\Data\\TaskDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T08:49:32.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ff949254-e51d-40a2-afa6-ad4482f5e54d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
