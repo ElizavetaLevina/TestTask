@@ -39,6 +39,9 @@ namespace TestTask
 						h.Username(user);
 						h.Password(pass);
 					});
+
+					cfg.Message<TaskCompleted>(m => m.SetEntityName("task.events"));
+					cfg.Send<TaskCompleted>(s => s.UseRoutingKeyFormatter(_ => "task.completed"));
 				});
 			});
 
